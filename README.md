@@ -6,6 +6,7 @@ I was born and brought up from a town named Jagtial of Telangana state in INDIA.
 ## Plans:
 I would like to have a better software job as a Full-time employee which can help me grow in my career. I would like to learn new things and apply them in real-time. I follow the saying that “Live as if you were to die tomorrow. Learn as if you were to live forever.”
 ## Links:
-- My LinkedIn profile: [](https://www.linkedin.com/in/sowmya-thogiti-33a835165/)
-- My GitHub profile: [](https://github.com/sowmyathogiti)
+- My LinkedIn profile: https://www.linkedin.com/in/sowmya-thogiti-33a835165/
+- My GitHub profile: https://github.com/sowmyathogiti
 ## My Favourite pic:
+![](https://github.com/sowmyathogiti/big-data-developer/blob/main/Sowmya%20(1).jpg)
